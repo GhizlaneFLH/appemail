@@ -1,7 +1,8 @@
 # appemail
 
 A new Flutter project.
-Flutter application for email management
+
+Flutter application for email management.
 
 ## Getting Started
 
